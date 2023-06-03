@@ -1,0 +1,1 @@
+# Notebook examples of different optimizations algorithms from the "Algorithms for Optimization" book implemented in Python  
